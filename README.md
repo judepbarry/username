@@ -1,13 +1,16 @@
 # README for Username Validation Script
 
 ## Author Information
-- **Name:** [Your Full Name]
-- **Course:** [Course Number and Name]
+- **Name:** [Jude Barry]
+- **Course:** [CPSC298 Computer Science Colliquium]
 - **Assignment:** Username Validation
-- **Date:** [Date of Completion]
+- **Date:** [10/13/25]
 
 ## Program Description
 [Write 2-3 sentences in your own words describing what this script does and its purpose. Explain the problem it solves and how it works at a high level.]
+This Bash script checks whether a given username meets specific formatting requirements. 
+It uses a regular expression to ensure the username starts with a letter, contains only letters, numbers, or underscores, and is the correct length. 
+The program can validate a single username entered by the user or multiple usernames from an input file.
 
 ## Username Requirements
 This script validates usernames according to the following rules:
