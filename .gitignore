@@ -1,0 +1,5 @@
+# Ignore leftover ssh-agent eval files
+eval* 
+*.pub
+
+
